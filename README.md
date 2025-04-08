@@ -7,23 +7,23 @@ Feel free to connect with me on LinkedIn or reach out via email at [nailia.bekte
 
 Technical Skills 💻
 
-Languages
+Languages:
 C, C++, C#, Python, JavaScript, PL/SQL, SQL
 
-Framewroks & Technologies
+Framewroks & Technologie:
 .NET MAUI, Blazor, Node.js, React, Oracle APEX
 
-Tools & Skills
+Tools & Skills:
 Software Ideas Modeler, Wireshark, Figma, Packet Tracer, VMs, Visual Studio, VS Code, XCode
 
-Databases
+Databases:
 MySQL, MongoDB, MariaDB, Oracle
 
-Frontend
+Frontend:
 HTML, CSS, Tailwind CSS
 
-Cloud Services
+Cloud Services:
 Google Cloud Platform
 
-Authentication
+Authentication:
 OAuth
