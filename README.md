@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi!
 
-<!--
-**nayabektenova/nayabektenova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Naya, a Software Developer based in Calgary, AB, Canada, passionate about on developing innovative applications that improve system performance and user satisfaction. 
+I’m always open to new opportunities and even ready to relocate anywhere to take on exciting projects!
 
-Here are some ideas to get you started:
+Feel free to connect with me on LinkedIn or reach out via email at [nailia.bektenova@gmail.com](mailto:nailia.bektenova@gmail.com)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills 💻
+
+Languages
+C, C++, C#, Python, JavaScript, PL/SQL, SQL
+
+Framewroks & Technologies
+.NET MAUI, Blazor, Node.js, React, Oracle APEX
+
+Tools & Skills
+Software Ideas Modeler, Wireshark, Figma, Packet Tracer, VMs, Visual Studio, VS Code, XCode
+
+Databases
+MySQL, MongoDB, MariaDB, Oracle
+
+Frontend
+HTML, CSS, Tailwind CSS
+
+Cloud Services
+Google Cloud Platform
+
+Authentication
+OAuth
