@@ -1,9 +1,9 @@
 Hi!
 
-I'm Naya, a Software Developer based in Calgary, AB, Canada, passionate about on developing innovative applications that improve system performance and user satisfaction. 
+I'm Naya, a Software Developer based in Calgary, AB, Canada, passionate about developing innovative applications that improve system performance and user satisfaction. 
 I’m always open to new opportunities and even ready to relocate anywhere to take on exciting projects!
 
-Feel free to connect with me on LinkedIn or reach out via email at [nailia.bektenova@gmail.com](mailto:nailia.bektenova@gmail.com)!
+Feel free to reach out via email at [nailia.bektenova@gmail.com](mailto:nailia.bektenova@gmail.com)!
 
 Technical Skills 💻
 
