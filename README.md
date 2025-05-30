@@ -5,10 +5,10 @@ I’m always open to new opportunities and even ready to relocate anywhere to ta
 
 Feel free to reach out via email at [nailia.bektenova@gmail.com](mailto:nailia.bektenova@gmail.com)!
 
-Technical Skills 💻
+Technical Skills 
 
 Languages:
-C, C++, C#, Python, JavaScript, PL/SQL, SQL
+C, C++, C#, Python, Java, JavaScript, PL/SQL, SQL
 
 Framewroks & Technologie:
 .NET MAUI, Blazor, Node.js, React, Oracle APEX
